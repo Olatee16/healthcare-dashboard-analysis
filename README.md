@@ -48,7 +48,7 @@ It reaffirmed that **data visualization isn’t just about charts — it’s abo
 
 ## 📂 Files
 - `/tableau/healthcare_dashboard.twbx` — Tableau workbook  
-- `/data/healthcare_dataset_cleaned.xlsx` — cleaned dataset (if shareable)  
+- `/data/healthcare_dataset_cleaned.xlsx` — cleaned dataset   
 - `/assets/healthcare_dashboard.png` — screenshot of final dashboard  
 
 ---
